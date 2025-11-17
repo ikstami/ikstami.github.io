@@ -37,9 +37,6 @@
 ---
 
 <div align="center">
-  
-**Посетителей:** ![Счетчик](https://komarev.com/ghpvc/?username=ваш-username&color=blue)
 
-*Обновлено: 2024*
 
 </div>
