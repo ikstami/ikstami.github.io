@@ -1,7 +1,6 @@
 {
   "name": "ManifestLab",
   "short_name": "ManifestLab",
-  "start_url": ".",
   "display": "standalone",
   "background_color": "#fff",
   "description": "Манифест для лаб. работы по PWA.",
