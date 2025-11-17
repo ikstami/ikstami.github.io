@@ -6,7 +6,7 @@
   "description": "Манифест для лаб. работы по PWA.",
   "icons": [
     {
-      "src": "iconlines.png",
+      "src": "/iconlines.png",
       "sizes": "48x48",
       "type": "image/png"
     }
