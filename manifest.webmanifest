@@ -6,31 +6,7 @@
   "background_color": "#fff",
   "description": "A simply readable Hacker News app.",
   "icons": [
-    {
-      "src": "homescreen96.jpg",
-      "sizes": "48x48",
-      "type": "image/png"
-    },
-    {
-      "src": "homescreen96.jpg",
-      "sizes": "72x72",
-      "type": "image/png"
-    },
-    {
-      "src": "homescreen96.jpg",
-      "sizes": "96x96",
-      "type": "image/png"
-    },
-    {
-      "src": "homescreen96.jpg",
-      "sizes": "144x144",
-      "type": "image/png"
-    },
-    {
-      "src": "homescreen96.jpg",
-      "sizes": "168x168",
-      "type": "image/png"
-    },
+   
     {
       "src": "homescreen96.jpg",
       "sizes": "192x192",
