@@ -12,13 +12,4 @@
       "type": "image/png"
     }
   ],
-  "related_applications": [
-    {
-      "platform": "web"
-    },
-    {
-      "platform": "play",
-      "url": "https://github.com/ikstami/ikstami.github.io"
-    }
-  ]
 }
